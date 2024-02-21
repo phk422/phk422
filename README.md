@@ -1,6 +1,9 @@
 ## Hi there Phk👋
 
+> A Front end developer from **Chengdu, China**.
+
 ## 🤾‍♂️ Open Source Projects
+
 - [tiny-app-cli](https://github.com/phk422/tiny-app-cli) - Automatic interrogation and release of wechat, Alipay mini program.
 - [vite-plugin-lqip](https://github.com/phk422/vite-plugin-lqip) - Low-quality image placeholder (LQIP) plugin for Vite.
 
