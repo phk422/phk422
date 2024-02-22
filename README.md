@@ -6,6 +6,7 @@
 
 - [tiny-app-cli](https://github.com/phk422/tiny-app-cli) - Automatic interrogation and release of wechat, Alipay mini program.
 - [vite-plugin-lqip](https://github.com/phk422/vite-plugin-lqip) - Low-quality image placeholder (LQIP) plugin for Vite.
+- [vue-txt-anime](https://github.com/phk422/vue-txt-anime) - It is a vue component, which contains many beautiful and free text effects.
 
 ## 🛠 Technology Stack
 
