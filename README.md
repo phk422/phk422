@@ -1,6 +1,6 @@
 ## Hi there Phk👋
 
-> A Front end developer from **Chengdu, China**.
+> A Coder from **Chengdu, China**.
 
 ## 🤾‍♂️ Open Source Projects
 
