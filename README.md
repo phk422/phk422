@@ -25,7 +25,7 @@
 
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:penghongkun422@gmail.com)
 - VX: coder151
-<img src="https://github.com/phk422/videoproject-vue/blob/master/img/image-20200817121128341.png" />
+<img src="https://github.com/phk422/videoproject-vue/blob/master/img/image-20200817121128341.png" width="200" />
 
 ## 🏆 Github Status
 
