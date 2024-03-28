@@ -1,3 +1,5 @@
+<div align="center" ><img width="300px" src="./hello_world.svg" /></div>
+
 ## Hi there Phk👋
 
 > A Coder from **Chengdu, China**.
