@@ -7,6 +7,7 @@
 ## 🤾‍♂️ Open Source Contributions
 
 - [tiny-app-cli](https://github.com/phk422/tiny-app-cli) - Automatic interrogation and release of wechat, Alipay mini program.
+- [tinypng-plus-cli](https://github.com/phk422/tinypng-plus-cli) - Command line tool for compressing images with TinyPNG without requiring a key.
 - [astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [vue-txt-anime](https://github.com/phk422/vue-txt-anime) - It is a vue component, which contains many beautiful and free text effects.
 - [openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs.
