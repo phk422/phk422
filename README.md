@@ -26,8 +26,8 @@
 
 ## ☎️ Contact Me
 
+- Wechat: coder151
 - <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:penghongkun422@gmail.com)
-- VX: coder151
 
 ## 🏆 Github Status
 
